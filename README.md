@@ -1,6 +1,5 @@
 # GhostAsset
 # 🕵️‍♂️ GhostAsset: Tactical Fugitive Snaring Tool Built to assist federal agencies by helping capture FBI's Most Wanted — one bounty at a time.
-Absolutely — here’s the full, badass **README for GhostAsset** in one clean code block, ready to drop into `README.md`:
 
 
 # 👤 GhostAsset: Tactical Fugitive Tracking Interface
